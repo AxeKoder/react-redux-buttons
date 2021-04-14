@@ -27,8 +27,15 @@ button {
     width: 92px;
     height: 92px;
     margin: 24px;
-    color: brown;
     background-color: whitesmoke;
+}
+
+#btn-plus {
+  color: blue;
+}
+
+#btn-minus {
+  color: brown;
 }
 
 

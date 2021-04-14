@@ -6,11 +6,11 @@ class Buttons extends React.Component {
     render() {
         return (
             <div>
-                <button type="button"
+                <button type="button" id="btn-plus"
                     onClick={this.props.onIncrement}>
                         +
                 </button>
-                <button type="button"
+                <button type="button" id="btn-minus"
                     onClick={this.props.onDecrement}>
                         -
                 </button>
