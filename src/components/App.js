@@ -2,6 +2,7 @@ import React from 'react';
 import Counter from './Counter';
 import Buttons from './Buttons';
 import Option from './Option';
+import '../index.css'
 
 class App extends React.Component {
     render() {

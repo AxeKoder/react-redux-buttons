@@ -8,9 +8,11 @@ class Buttons extends React.Component {
             <div>
                 <button type="button"
                     onClick={this.props.onIncrement}>
+                        +
                 </button>
                 <button type="button"
                     onClick={this.props.onDecrement}>
+                        -
                 </button>
             </div>
         )

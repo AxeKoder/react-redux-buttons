@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  font-size: 3em;
+}
+
+input {
+  font-size: 2em;
+  text-align: center;
+  width: 112px;
+}
+
+button {
+  font-size: 4em;
+    width: 92px;
+    height: 92px;
+    margin: 24px;
+    color: brown;
+    background-color: whitesmoke;
+}
+
+
